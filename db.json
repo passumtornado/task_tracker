@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Create Mobile App",
+      "day": "Feb 22 @2:30",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "title": "Visit My Mum",
+      "day": "Feb 22 @2:30",
+      "reminder": true
+    },
+    {
+      "title": "New Task",
+      "day": "2023-04-21",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "title": "New Task",
+      "day": "2023-04-15",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
